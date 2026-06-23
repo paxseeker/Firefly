@@ -172,7 +172,7 @@ export const siteConfig: SiteConfig = {
 		// 提醒框（Admonitions）配置，修改后需要重启开发服务器才能生效
 		// 主题：'github' | 'obsidian' | 'vitepress' | 'docusaurus'，每个主题风格和语法不同，可根据喜好选择
 		rehypeCallouts: {
-			theme: "github",
+			theme: "obsidian",
 			// 是否启用兼容 Python-Markdown 风格的 admonition 语法（!!!和???语法）
 			// 注意：只有 theme 配置成 obsidian 主题才能基本支持这些语法，其他主题会有样式问题或不兼容的情况
 			enablePythonMarkdownAdmonitions: false,
