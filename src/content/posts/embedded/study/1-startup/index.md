@@ -4,6 +4,7 @@ tags:
 title: 启动文件（stm32c8t6点灯）
 category: 嵌入式
 draft: false
+image: https://imgbed.paxseeker.xyz/file/1783936706353_miku.png
 published: 2026-05-21
 description: 简单启动文件，点灯
 ---
