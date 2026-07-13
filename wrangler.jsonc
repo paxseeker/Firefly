@@ -1,5 +1,5 @@
 {
-	"name": "firefly",
+	"name": "firefly-blog",
 	"compatibility_date": "2026-06-20",
 	"compatibility_flags": ["nodejs_compat"],
 	"assets": {
