@@ -406,7 +406,7 @@ GPIOC_ODR &= ~(1 << 13);
 ### 关键概念
 
 #### 1. MEMORY定义
-```ld
+```txt
 MEMORY
 {
     FLASH (rx)  : ORIGIN = 0x08000000, LENGTH = 64K
@@ -450,7 +450,7 @@ MEMORY
 ### 关键概念
 
 #### 1. MEMORY定义
-```ld
+```txt
 MEMORY
 {
     FLASH (rx)  : ORIGIN = 0x08000000, LENGTH = 64K
