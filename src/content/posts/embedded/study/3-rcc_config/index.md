@@ -6,6 +6,7 @@ draft: false
 published: 2026-05-23
 description: 初始化系统时钟
 image: https://imgbed.paxseeker.xyz/file/1784096129975_image.png
+category: 嵌入式
 ---
 # 时钟树
 
