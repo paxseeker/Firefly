@@ -25,7 +25,8 @@ export const siteConfig: SiteConfig = {
 		"博客",
 		"技术博客",
 		"静态博客",
-        "PaxSeeker",
+    "PaxSeeker",
+    "paxseeker",
 	],
 
 	// 主题色
@@ -210,7 +211,7 @@ export const siteConfig: SiteConfig = {
 		// Bilibili 配置
 		bilibili: {
 			// 你的 Bilibili 用户 UID
-			uid: "38932988",
+			uid: "1945161213",
 		},
 		// TMDB 配置（可选，需要翻墙）
 		// tmdb: {
