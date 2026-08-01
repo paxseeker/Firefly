@@ -89,6 +89,12 @@ const getDynamicNavBarConfig = (): NavBarConfig => {
 				external: true,
 				icon: "material-symbols:cloud",
 			},
+      {
+        name: "Bilibili",
+        url: "https://space.bilibili.com/1945161213",
+        external: true,
+        icon: "fa7-brands:bilibili",
+      },
 		],
 	});
 
